@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Theme demo data were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://www.strangerview.dk
+Data file = /customers/6/a/9/strangerview.dk/httpd.www/wp-content/themes/book-club/importer/content.xml
+Widget file = /customers/6/a/9/strangerview.dk/httpd.www/wp-content/uploads/2019/08/demo-widgets-import-file_2019-08-27__06-48-26.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Content Sidebar : 
+
+Tekst - No Title - Imported
+Banner Applikation - No Title - Imported
+
+Blog Sidebar : 
+
+Logo &amp; Beskrivelse - Lorem ipsum sitame an ullamcs uisaue velitesse. - Imported
+Søg - No Title - Imported
+Seneste indlæg - Latest Posts - Imported
+Kalender - No Title - Imported
+Kategorier - Post Categories - Imported
+Adresse - Get in Touch - Imported
+
+Footer : 
+
+Logo &amp; Beskrivelse - Lorem ipsum sitame an ullamcs uisaue velitesse. - Imported
+Seneste indlæg - Upcoming Book Clubs - Imported
+Adresse - Get in Touch - Imported
+
+
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,2180 @@
+# Translation of Themes - Illdy in Swedish
+# This file is distributed under the same license as the Themes - Illdy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-11 12:17:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Illdy\n"
+
+#. Theme Name of the theme
+#: header.php:13 footer.php:77 inc/customizer/customizer.php:35
+#: inc/customizer/panels/general-options.php:240
+msgid "Illdy"
+msgstr "Illdy"
+
+#: inc/customizer/panels/general-options.php:227
+msgid "Logo Width"
+msgstr "Bredd på logga"
+
+#: inc/customizer/panels/general-options.php:14
+msgid "The site logo is used as a graphical representation of your company name."
+msgstr "Webbplatsens logga används som en grafisk representation av ditt företagsnamn."
+
+#: inc/customizer/customizer.php:356
+msgid "You must supply a numeric value"
+msgstr "Du måste ange ett numeriskt värde"
+
+#: inc/customizer/customizer.php:360
+msgid "You must supply a positive number"
+msgstr "Du måste ange ett positivt nummer"
+
+#: inc/customizer/panels/general-options.php:228
+msgid "Site logo width (in pixels)"
+msgstr "Bredd på webbplatsens logga (i pixlar)"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:377
+msgid "Integrations"
+msgstr "Integreringar"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image-dimensions.php:96
+msgid "Ratio"
+msgstr "Kvot"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image-dimensions.php:92
+msgid "Height"
+msgstr "Höjd"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image-dimensions.php:88
+msgid "Width"
+msgstr "Bredd"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:89
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:86
+msgid "Style"
+msgstr "Stil"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:429
+msgid "Initial"
+msgstr "Ursprunglig"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:421
+msgid "Background size"
+msgstr "Bakgrundstorlek"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:450
+msgid "Background video"
+msgstr "Bakgrundsvideo"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:560
+msgid "Items group"
+msgstr "Objektgrupp"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:546
+msgid "Items spacing"
+msgstr "Objektmellanrum"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:532
+msgid "Stretch"
+msgstr "Sträck ut"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:393
+msgid "Bottom"
+msgstr "Botten"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:391
+msgid "Right"
+msgstr "Höger"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:390
+msgid "Center"
+msgstr "Centrerat"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:389
+msgid "Left"
+msgstr "Vänster"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:334
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#: inc/libraries/epsilon-framework/classes/class-epsilon-customizer.php:479
+msgid "Customize"
+msgstr "Anpassa"
+
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-section-navigation-menu.php:101
+msgid "Add to Menu"
+msgstr "Lägg till i meny"
+
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-section-navigation-menu.php:78
+msgid "Select a Section"
+msgstr "Välj en sektion"
+
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-section-navigation-menu.php:72
+msgid "Section"
+msgstr "Sektion"
+
+#. Translators: %s is the plugin name
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:127
+msgid "Activate: %s"
+msgstr "Aktivera: %s"
+
+#. Translators: %s is the plugin name.
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:121
+msgid "Install: %s"
+msgstr "Installera: %s"
+
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-section-navigation-menu.php:87
+msgid "Label"
+msgstr "Etikett"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:294
+msgid "Heading Color"
+msgstr "Rubrikfärg"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:365
+msgid "Background image"
+msgstr "Bakgrundsbild"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:394
+msgid "Bottom Right"
+msgstr "Botten höger"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:392
+msgid "Bottom Left"
+msgstr "Botten vänster"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:380
+msgid "Background position"
+msgstr "Bakgrundsposition "
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:518
+msgid "Vertical alignment"
+msgstr "Vertikal justering"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:503
+msgid "Horizontal alignment"
+msgstr "Horisontell justering"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:348
+msgid "Background color opacity"
+msgstr "Bakgrundsfärgens opacitet"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:438
+msgid "Background parallax"
+msgstr "Parallax-bakgrund"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:587
+msgid "Spacing bottom"
+msgstr "Avstånd nedtill"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:574
+msgid "Spacing top"
+msgstr "Avstånd ovan"
+
+#. Translators: %s is the plugin name
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:129
+msgid "Please activate %s in order to create the demo content."
+msgstr "Aktivera %s för att skapa demoinnehållet."
+
+#. Translators: %s is the plugin name.
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:123
+msgid "Please install %s in order to create the demo content."
+msgstr "Installera %s för att skapa demoinnehållet."
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:600
+msgid "Title & description alignment"
+msgstr "Justering av rubrik och beskrivning"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:189
+msgid "Section Class"
+msgstr "Klass för sektionen"
+
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-section-navigation-menu.php:95
+msgid "Only sections that have an ID are selectable, please edit section id's to see all the sections!"
+msgstr "Endast sektioner med ID är valbara. Redigera sektionernas ID för att visa alla sektioner!"
+
+#: inc/customizer/panels/general-options.php:443
+msgid "Show footer copyright area?"
+msgstr "Visa sidfotens copyrightområde?"
+
+#: inc/customizer/panels/general-options.php:421
+msgid "Show footer widget area?"
+msgstr "Visa sidfotens widgetområde?"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:403
+msgid "Background repeat"
+msgstr "Repetition av bakgrund"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:412
+msgid "Repeat X"
+msgstr "Repetera X"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:411
+msgid "Repeat Y"
+msgstr "Repetera Y"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:410
+msgid "Repeat"
+msgstr "Repetera"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:409
+msgid "No Repeat"
+msgstr "Inge repetering"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:388
+msgid "Top Right"
+msgstr "Toppen höger"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:387
+msgid "Top"
+msgstr "Toppen"
+
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:386
+msgid "Top Left"
+msgstr "Toppen vänster"
+
+#: inc/customizer/panels/general-options.php:361
+msgid "Footer"
+msgstr "Sidfot"
+
+#: inc/customizer/panels/general-options.php:44
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: inc/customizer/panels/general-options.php:100
+msgid "Enable featured image as header image"
+msgstr "Aktivera utvald bild som sidhuvudbild"
+
+#: inc/customizer/panels/general-options.php:78
+msgid "Controls the background color for header when this is sticky"
+msgstr "Kontrollerar bakgrundsfärgen för sidhuvudet när det är klistrat"
+
+#: inc/customizer/panels/general-options.php:61
+msgid "Enable the sticky header?"
+msgstr "Aktivera det klistrade sidhuvudet?"
+
+#: inc/customizer/panels/general-options.php:77
+msgid "Sticky header background color"
+msgstr "Bakgrundsfärg för klistrat sidhuvud"
+
+#: inc/customizer/panels/general-options.php:404
+msgid "Enable go to top icon ?"
+msgstr "Aktivera ikon för att gå längst upp?"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:64
+msgid "Help"
+msgstr "Hjälp"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:51
+msgid "Press return or enter to open this section"
+msgstr "Tryck på retur eller enter för att öppna denna sektion"
+
+#. translators: %s: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "One thought to &ldquo;%s&rdquo;"
+msgstr "En tanke kring &rdquo;%s&rdquo;"
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:222
+msgid "Widgets"
+msgstr "Widgetar"
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:204
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:83
+msgid "Content"
+msgstr "Innehåll"
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:185
+msgid "Advanced"
+msgstr "Avancerat"
+
+#. Translators: license sites, title, update link
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:65
+msgid "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>."
+msgstr "<strong>%1$s %2$s</strong> är tillgänglig. <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">Se vad som är nytt</a> eller <a href=\"%5$s\"%6$s>uppdatera nu</a>."
+
+#. Translators: Unlimited activations
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:41
+msgid "unlimited"
+msgstr "obegränsat"
+
+#. Translators: expires
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:45
+msgid "Expires %s."
+msgstr "Löper ut %s."
+
+#. Translators: Renewal Label
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:39
+msgid "Renew?"
+msgstr "Förnya?"
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:213
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:376
+msgid "Sections"
+msgstr "Sektion"
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:184
+msgid "Import Demo Content"
+msgstr "Importera demoinnehåll"
+
+#. Translators: Inactive website
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:59
+msgid "Site is inactive."
+msgstr "Webbplatsen är inaktiv."
+
+#. Translators: Disabled license
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:57
+msgid "License key is disabled."
+msgstr "Licensnyckel är inaktiverad."
+
+#. Translators: Match failed
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:53
+msgid "License keys do not match."
+msgstr "Licensnycklarna matchar inte."
+
+#. Translators: Expired License Key
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:51
+msgid "License key has expired."
+msgstr "Licensnyckel har löpt ut."
+
+#. Translators: websites activated
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:47
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Du har %1$s / %2$s webbplatser aktiverade."
+
+#. Translators: Active key
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:43
+msgid "License key is active."
+msgstr "Licensnyckel är aktiv."
+
+#. Translators: Unknown License Label
+#. Translators: Unknown license key
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:37
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:61
+msgid "License status is unknown."
+msgstr "Licensstatus är okänd."
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:271
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:775
+msgid "Homepage"
+msgstr "Startsida"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:598
+msgid "Deactivate now"
+msgstr "Inaktivera nu"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:592
+msgid "Activate now"
+msgstr "Aktivera nu"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:571
+msgid "Install and Activate"
+msgstr "Installera och aktivera"
+
+#. Translators: Registration
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:25
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:526
+msgid "Registration"
+msgstr "Registrering"
+
+#. Translators: Menu Title
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:393
+msgid "About %1$s"
+msgstr "Om %1$s"
+
+#. Translators: Notice URL
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:374
+msgid "Get started with %1$s"
+msgstr "Kom igång med %1$s"
+
+#. Translators: Notice Title
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:363
+msgid "Welcome to %1$s"
+msgstr "Välkommen till %1$s"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:304
+msgid "Activating"
+msgstr "Aktiverar"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:314
+msgid "Line Height"
+msgstr "Radhöjd"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:242
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:261
+msgid "Row"
+msgstr "Rad"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:311
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:110
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:260
+msgid "Upload image"
+msgstr "Ladda upp bild"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:101
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:259
+msgid "Add"
+msgstr "Lägg till"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:58
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:135
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:321
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:118
+#: inc/libraries/epsilon-framework/class-epsilon-framework.php:258
+msgid "Remove"
+msgstr "Ta bort"
+
+#: inc/customizer/panels/jumbotron.php:447
+msgid "Slider Navigation ?"
+msgstr "Bildspelsnavigation?"
+
+#. Translators: Activate License Label
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:35
+msgid "Activate License"
+msgstr "Aktivera licens"
+
+#. Translators: Deactivate License Label
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:33
+msgid "Deactivate License"
+msgstr "Inaktivera licens"
+
+#. Translators: License Key
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:29
+msgid "License Key"
+msgstr "Licensnyckel"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:369
+msgid "Clear Results"
+msgstr "Rensa resultat"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-upsell.php:70
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:267
+msgid "See what's in the PRO version"
+msgstr "Se vad som finns i Pro-versionen"
+
+#. Translators: Section limit
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:353
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+msgid "Limit: "
+msgstr "Gräns:"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-layouts.php:201
+msgid "Edit column size"
+msgstr "Ändra kolumnstorlek"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:122
+msgid "Default"
+msgstr "Standard"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:59
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:136
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:56
+msgid "Close"
+msgstr "Stäng"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:313
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:112
+msgid "Recommended resolution:"
+msgstr "Rekommenderad upplösning:"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:399
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-color-picker.php:82
+msgid "(clear)"
+msgstr "(rensa)"
+
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-content-backup.php:221
+msgid "This page contains the content created by the customizer."
+msgstr "Denna sida har innehåll som skapats genom anpassaren. "
+
+#: inc/customizer/panels/jumbotron.php:392
+msgid "Slide Image"
+msgstr "Bildspelsbild"
+
+#: inc/customizer/panels/jumbotron.php:388
+msgid "Slide"
+msgstr "Bildspel"
+
+#: inc/customizer/panels/jumbotron.php:385
+msgid "Add new entries"
+msgstr "Lägg till nya inlägg"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:325
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:126
+msgid "Select File"
+msgstr "Välj fil"
+
+#. Translators: Action
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:31
+msgid "License Action"
+msgstr "Licensåtgärd"
+
+#. Translators: Enter Key field label
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:27
+msgid "Enter your theme license key."
+msgstr "Ange licensnyckel för ditt tema."
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:323
+msgid "Letter Spacing"
+msgstr "Teckenavstånd"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:305
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:371
+msgid "The search results will be updated as you type."
+msgstr "Sökresultaten uppdateras när du skriver."
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:365
+msgid "Search sections"
+msgstr "Söksektioner"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:359
+msgid "Add a Section"
+msgstr "Lägg till en sektion"
+
+#. Translators: Section limit
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:354
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+msgid "sections"
+msgstr "sektioner"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:195
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:208
+#: inc/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:37
+#: inc/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:50
+msgid "Not allowed"
+msgstr "Inte tillåtet"
+
+#: inc/extras.php:685
+msgid "Play"
+msgstr "Spela"
+
+#: inc/extras.php:684
+msgid "Pause"
+msgstr "Paus"
+
+#: inc/extras.php:686
+msgid "Video is paused."
+msgstr "Videon är pausad."
+
+#: inc/extras.php:687
+msgid "Video is playing."
+msgstr "Videon spelas."
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:233
+msgid "Frontpage settings"
+msgstr "Inställningar för startsida"
+
+#. Translators: Inactive license
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:55
+msgid "License is inactive."
+msgstr "Licens är inaktiv."
+
+#. Translators: Update notice
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:63
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr "Vid uppdatering av detta tema kommer alla anpassningar du har gjort gå förlorade. ”Avbryt” för att sluta, ”OK” för att uppdatera."
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:219
+#: inc/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:61
+msgid "Class does not exist"
+msgstr "Klass finns inte"
+
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-color-coded-categories.php:112
+msgid "This color will affect category related elements such as links, titles, etc. (defined by your theme)"
+msgstr "Denna färg kommer att påverka kategorirelaterade element som länkar, rubriker osv. (definierad av ditt tema)"
+
+#. Translators: Welcome Screen Description.
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:433
+msgid "%1$s is now installed and ready to use! Get ready to build something beautiful. We hope you enjoy it! We want to make sure you have the best experience using %1$s and that is why we gathered here all the necessary information for you. We hope you will enjoy using %1$s, as much as we enjoy creating great products."
+msgstr "%1$s är nu installerat och klar att använda! Gör dig redo att bygga något vackert. Vi hoppas att du tycker om det! Vi vill se till att du får den bästa upplevelsen med att använda %1$s och det är därför vi har samlat all nödvändig information åt dig här. Vi hoppas att du kommer att gilla att använda %1$s, lika mycket som vi gillar att skapa bra produkter."
+
+#. Translators: License expired
+#: inc/libraries/welcome-screen/inc/class-edd-theme-helper.php:49
+msgid "License key expired %s."
+msgstr "Licensnyckel har löpt ut %s."
+
+#. Translators: Welcome Screen Title.
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:427
+msgid "Welcome to %1$s - v"
+msgstr "Välkommen till %1$s – v"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:272
+msgid "Theme default"
+msgstr "Temastandard"
+
+#: inc/customizer/panels/jumbotron.php:384
+msgid "Slides"
+msgstr "Bilder"
+
+#: inc/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:366
+msgid "Search sections &hellip;"
+msgstr "Söksektioner &hellip;"
+
+#: inc/customizer/panels/jumbotron.php:429
+msgid "Slider Timeout"
+msgstr "Timeout för bildspel"
+
+#: inc/customizer/panels/jumbotron.php:430
+msgid "Autoplay interval timeout."
+msgstr "Intervalltimeout för automatisk uppspelning."
+
+#: inc/customizer/panels/jumbotron.php:413
+msgid "Slider Autoplay ?"
+msgstr "Spela upp bildspel automatiskt?"
+
+#: inc/customizer/panels/general-options.php:264
+msgid "404 Page"
+msgstr "404-sida"
+
+#: inc/customizer/panels/jumbotron.php:373
+msgid "Or, enter a YouTube URL:"
+msgstr "Eller, ange en YouTube URL:"
+
+#: inc/customizer/panels/jumbotron.php:364
+msgid "Choose Video"
+msgstr "Välj video"
+
+#: inc/customizer/panels/jumbotron.php:362
+msgid "No video selected"
+msgstr "Ingen video vald"
+
+#: inc/customizer/panels/jumbotron.php:361
+msgid "Change Video"
+msgstr "Ändra video"
+
+#: inc/customizer/panels/jumbotron.php:360
+#: inc/customizer/panels/jumbotron.php:363
+msgid "Select Video"
+msgstr "Välj video"
+
+#: inc/customizer/panels/jumbotron.php:228
+msgid "Slider"
+msgstr "Bildspel"
+
+#: inc/class-illdy.php:124
+msgid " is social :"
+msgstr "är social:"
+
+#: inc/customizer/panels/general-options.php:265
+msgid "From this section, you'll be able to alter texts from 404 page"
+msgstr "Från denna sektion kan du ändra texter från 404-sidor"
+
+#: inc/customizer/panels/general-options.php:345
+msgid "404 Page Button Label"
+msgstr "Knappetikett för 404-sida"
+
+#: inc/customizer/panels/general-options.php:323
+msgid "404 Page Entry"
+msgstr "Inlägg för 404-sida"
+
+#: inc/customizer/panels/general-options.php:301
+msgid "404 Page Subtitle"
+msgstr "Underrubrik för 404-sida"
+
+#: inc/customizer/panels/general-options.php:280
+msgid "404 Page Title"
+msgstr "Rubrik för 404-sida"
+
+#: inc/customizer/panels/jumbotron.php:356
+msgid "Header Video"
+msgstr "Sidhuvudets videoklipp."
+
+#: inc/customizer/panels/jumbotron.php:229
+msgid "Video"
+msgstr "Videoklipp"
+
+#: sections/front-page-bottom-header.php:11
+#: sections/front-page-bottom-header.php:18
+#: inc/customizer/panels/jumbotron.php:41
+msgid "Clean <span class=\"span-dot\">.</span> Slick<span class=\"span-dot\">.</span> Pixel Perfect"
+msgstr "Rent <span class=\"span-dot\">.</span> Smidigt<span class=\"span-dot\">.</span> Pixelperfekt"
+
+#: 404.php:24
+msgid "404"
+msgstr "404"
+
+#: functions.php:58
+msgid "Coffe"
+msgstr "Kaffe"
+
+#: 404.php:15 inc/customizer/panels/general-options.php:338
+msgid "Home"
+msgstr "Hem"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:291
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:357
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:28
+msgid "Check recommended actions"
+msgstr "Kontrollera rekommenderade åtgärder"
+
+#: inc/libraries/welcome-screen/sections/support.php:15
+#: inc/libraries/welcome-screen/sections/support.php:19
+msgid "Contact Support"
+msgstr "Kontakta support"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:37
+msgid "Full documentation"
+msgstr "Fullständig dokumentation"
+
+#: inc/libraries/welcome-screen/sections/support.php:29
+msgid "See our full documentation"
+msgstr "Se vår fullständiga dokumentation"
+
+#: inc/class-illdy.php:90
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:279
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/class-illdy.php:98
+msgid "Contrast Color"
+msgstr "Kontrastfärg"
+
+#: inc/class-illdy.php:76
+msgid "Accent Color"
+msgstr "Accentfärg"
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:514
+msgid "Recommended Plugins"
+msgstr "Rekommenderade tillägg"
+
+#: inc/class-illdy.php:125
+msgid "Recomended Plugins :"
+msgstr "Rekommenderade tillägg:"
+
+#: inc/class-illdy.php:123
+msgid "Recomended Actions"
+msgstr "Rekommenderade åtgärder"
+
+#: inc/customizer/panels/projects.php:166
+#: inc/customizer/panels/latest-news.php:193
+#: inc/customizer/panels/full-width.php:130 inc/customizer/panels/team.php:105
+#: inc/customizer/panels/services.php:147
+#: inc/customizer/panels/jumbotron.php:177 inc/customizer/panels/about.php:149
+#: inc/customizer/panels/testimonials.php:93
+#: inc/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:92
+msgid "Colors"
+msgstr "Färger"
+
+#: inc/customizer/customizer.php:64
+msgid "Color scheme"
+msgstr "Färgschema"
+
+#: inc/customizer/customizer.php:657 inc/customizer/customizer.php:665
+msgid "Invalid value for background size."
+msgstr "Ogiltigt värde för bakgrundsstorlek."
+
+#: inc/customizer/panels/projects.php:245
+#: inc/customizer/panels/latest-news.php:282
+#: inc/customizer/panels/full-width.php:210 inc/customizer/panels/team.php:165
+#: inc/customizer/panels/services.php:226
+#: inc/customizer/panels/jumbotron.php:292 inc/customizer/panels/about.php:228
+#: inc/customizer/panels/testimonials.php:175
+msgid "Original"
+msgstr "Original"
+
+#: inc/customizer/panels/projects.php:246
+#: inc/customizer/panels/latest-news.php:283
+#: inc/customizer/panels/full-width.php:211 inc/customizer/panels/team.php:166
+#: inc/customizer/panels/services.php:227
+#: inc/customizer/panels/jumbotron.php:293 inc/customizer/panels/about.php:229
+#: inc/customizer/panels/testimonials.php:176
+msgid "Fit to Screen"
+msgstr "Anpassa till skärm"
+
+#: inc/customizer/panels/projects.php:241
+#: inc/customizer/panels/latest-news.php:278
+#: inc/customizer/panels/full-width.php:206 inc/customizer/panels/team.php:161
+#: inc/customizer/panels/services.php:222
+#: inc/customizer/panels/jumbotron.php:288 inc/customizer/panels/about.php:224
+#: inc/customizer/panels/testimonials.php:171
+msgid "Image Size"
+msgstr "Bildstorlek"
+
+#: inc/customizer/panels/projects.php:223
+#: inc/customizer/panels/latest-news.php:260
+#: inc/customizer/panels/full-width.php:188 inc/customizer/panels/team.php:148
+#: inc/customizer/panels/services.php:204
+#: inc/customizer/panels/jumbotron.php:269 inc/customizer/panels/about.php:206
+#: inc/customizer/panels/testimonials.php:153
+msgid "Background Position"
+msgstr "Bakgrundsposition"
+
+#: inc/customizer/panels/projects.php:247
+#: inc/customizer/panels/latest-news.php:284
+#: inc/customizer/panels/full-width.php:212 inc/customizer/panels/team.php:167
+#: inc/customizer/panels/services.php:228
+#: inc/customizer/panels/jumbotron.php:294 inc/customizer/panels/about.php:230
+#: inc/customizer/panels/testimonials.php:177
+msgid "Fill Screen"
+msgstr "Fyll skärm"
+
+#: inc/customizer/panels/projects.php:316
+#: inc/customizer/panels/latest-news.php:354
+#: inc/customizer/panels/full-width.php:281 inc/customizer/panels/team.php:212
+#: inc/customizer/panels/services.php:297
+#: inc/customizer/panels/jumbotron.php:539 inc/customizer/panels/about.php:299
+#: inc/customizer/panels/testimonials.php:246
+msgid "Title Color"
+msgstr "Rubrikfärg"
+
+#: inc/customizer/panels/blog-options.php:131
+msgid "Show category"
+msgstr "Visa kategori"
+
+#: inc/customizer/panels/contact-us.php:37
+msgid "Details"
+msgstr "Detaljer"
+
+#: inc/customizer/panels/blog-options.php:151
+msgid "Show tags"
+msgstr "Visa etiketter"
+
+#: sections/blog-bottom-header.php:15
+#: inc/customizer/panels/general-options.php:273
+msgid "Page not found"
+msgstr "Sidan hittas inte"
+
+#: inc/customizer/customizer.php:65
+msgid "Select a color scheme"
+msgstr "Välj ett färgschema"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:118
+msgid "Review this theme on w.org"
+msgstr "Recensera det här temat på w.org"
+
+#: inc/class-illdy.php:99
+msgid "The color used for paragraphs."
+msgstr "Färgen som används för stycken."
+
+#: 404.php:14 inc/customizer/panels/general-options.php:315
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet lorem ac orci dictum sodales et eget orci. Vestibulum a laoreet dolor. Sed finibus vulputate nisl, at pulvinar nisi commodo ac. Proin placerat auctor libero. Phasellus nec suscipit mi, sed faucibus purus."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet lorem ac orci dictum sodales et eget orci. Vestibulum a laoreet dolor. Sed finibus vulputate nisl, at pulvinar nisi commodo ac. Proin placerat auctor libero. Phasellus nec suscipit mi, sed faucibus purus."
+
+#: inc/class-illdy.php:48
+msgid "Activate: Contact Form 7"
+msgstr "Aktivera: Contact Form 7"
+
+#: inc/class-mt-notify-system.php:185
+msgid "Activate: WordPress Importer"
+msgstr "Aktivera: WordPress Importer"
+
+#: inc/class-mt-notify-system.php:180 inc/class-mt-notify-system.php:188
+msgid "Install: WordPress Importer"
+msgstr "Installera: WordPress Importer"
+
+#: inc/customizer/panels/projects.php:56
+msgid "Enable Lightbox ?"
+msgstr "Aktivera Lightbox?"
+
+#: inc/customizer/panels/blog-options.php:61
+msgid "Blog Featured Image"
+msgstr "Utvald bloggbild"
+
+#: inc/customizer/panels/projects.php:333
+#: inc/customizer/panels/latest-news.php:371
+#: inc/customizer/panels/full-width.php:298 inc/customizer/panels/team.php:223
+#: inc/customizer/panels/services.php:314
+#: inc/customizer/panels/jumbotron.php:573 inc/customizer/panels/about.php:316
+msgid "Description Color"
+msgstr "Beskrivningsfärg"
+
+#: inc/class-illdy.php:91
+msgid "The color used for headings."
+msgstr "Den färg som används för rubriker."
+
+#: inc/class-illdy.php:83
+msgid "Secondary Accent Color"
+msgstr "Sekundär accentfärg"
+
+#: inc/class-mt-notify-system.php:255
+msgid "Update : "
+msgstr "Uppdatera:"
+
+#: inc/class-mt-notify-system.php:253
+msgid "Activate : "
+msgstr "Aktivera:"
+
+#: inc/class-mt-notify-system.php:251
+msgid "Install : "
+msgstr "Installera:"
+
+#: inc/customizer/panels/jumbotron.php:607
+msgid "Right Button Text Color"
+msgstr "Textfärg på höger knapp"
+
+#: inc/customizer/panels/jumbotron.php:590
+msgid "Left Button Text Color"
+msgstr "Textfärg på vänster knapp"
+
+#: inc/customizer/panels/full-width.php:109
+msgid "Add & Edit widgets"
+msgstr "Lägg till och redigera widgetar"
+
+#: inc/customizer/panels/contact-us.php:240
+msgid "Create a contact form from "
+msgstr "Skapa ett kontaktformulär från"
+
+#: inc/customizer/panels/team.php:88
+msgid "Add & Edit Members"
+msgstr "Lägg till och redigera medlemmar"
+
+#: inc/customizer/panels/services.php:124
+msgid "Add & Edit Services"
+msgstr "Lägg till och redigera tjänster"
+
+#: inc/customizer/panels/projects.php:143
+msgid "Add & Edit Projects"
+msgstr "Lägg till och redigera projekt"
+
+#: inc/customizer/panels/latest-news.php:494
+msgid "Post Content Color"
+msgstr "Färg på inläggsinnehåll"
+
+#: inc/customizer/panels/latest-news.php:460
+msgid "Post Title Color"
+msgstr "Färg på inläggsrubrik"
+
+#: inc/customizer/panels/latest-news.php:425
+msgid "Blog Button Text Color"
+msgstr "Textfärg på bloggknappen"
+
+#: inc/customizer/panels/latest-news.php:388
+#: inc/customizer/panels/latest-news.php:511
+msgid "Blog Button Background Color"
+msgstr "Bakgrundsfärg på bloggknappen"
+
+#: inc/customizer/panels/jumbotron.php:485
+msgid "First Button Background Color"
+msgstr "Bakgrundsfärg på första knappen"
+
+#: inc/customizer/panels/jumbotron.php:31
+msgid "Enable parallax effect ?"
+msgstr "Aktivera parallax-effekt?"
+
+#: inc/customizer/panels/blog-options.php:171
+msgid "Show comments number"
+msgstr "Visa antal kommentarer"
+
+#: inc/customizer/panels/blog-options.php:79
+msgid "Random featured image"
+msgstr "Slumpmässig utvald bild"
+
+#: inc/customizer/customizer.php:47
+#: inc/libraries/epsilon-framework/classes/backend/class-epsilon-section-navigation-menu.php:45
+msgid "Front Page Sections"
+msgstr "Sektioner på startsida"
+
+#: inc/class-illdy.php:84
+msgid "The secondary color used in Illdy."
+msgstr "Den sekundära färgen som används i Illdy."
+
+#: inc/class-illdy.php:77
+msgid "The main color used in Illdy."
+msgstr "Den huvudsakliga färgen som används i Illdy."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:24
+msgid "No recommended actions left to perform"
+msgstr "Inga rekommenderade åtgärder kvar att utföra"
+
+#: inc/class-illdy.php:41
+msgid "It is highly recommended that you install the Illdy Companion."
+msgstr "Det rekommenderas starkt att du installerar Illdy Companion."
+
+#: inc/class-illdy.php:49
+msgid "It is highly recommended that you install the Contact Form 7."
+msgstr "Det rekommenderas starkt att du installerar Contact Form 7."
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:508
+msgid "Recommended Actions"
+msgstr "Rekommenderade åtgärder"
+
+#: inc/customizer/panels/counter.php:105
+msgid "Add & Edit Counters"
+msgstr "Lägg till och redigera räknare"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:35
+msgid "Even if you're a long-time WordPress user, we still believe you should give our documentation a very quick Read."
+msgstr "Även om du är en van användare som har använt WordPress länge tror vi ändå att du borde snabbtitta på vår dokumentation."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:21
+msgid "We've compiled a list of steps for you, to take make sure the experience you'll have using one of our products is very easy to follow."
+msgstr "Vi har sammanställt en lista med steg åt dig, för att se till att din upplevelse när du använder någon av våra produkter är väldigt lätt att följa."
+
+#: 404.php:13 inc/customizer/panels/general-options.php:294
+msgid "OOOPS!"
+msgstr "HOPPSAN!"
+
+#: functions.php:299
+msgid "Footer Sidebar 4"
+msgstr "Sidopanel 4 i sidfot"
+
+#: functions.php:301
+msgid "The widgets added in this sidebar will appear in fourth block from footer."
+msgstr "De widgetar som läggs till i denna sidopanel visas i fjärde blocket i sidfoten."
+
+#: inc/libraries/welcome-screen/sections/support.php:26
+msgid "This is the place to go to reference different aspects of the theme. Our online documentation is an incredible resource for learning the ins and outs of using Illdy."
+msgstr "Detta är platsen att vara på för att hänvisa till olika aspekter av temat. Vår online dokumentation är en otrolig resurs för att lära sig precis allt om hur man använder Illdy."
+
+#: inc/customizer/panels/jumbotron.php:503
+msgid "Second Button Background Color"
+msgstr "Bakgrundsfärg på andra knappen"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:20
+msgid "Step 1 - Implement recommended actions"
+msgstr "Steg 1 – Implementera rekommenderade åtgärder"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:34
+msgid "Step 2 - Check our documentation"
+msgstr "Steg 2 – Kolla in vår dokumentation"
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:42
+msgid "Step 3 - Customize everything"
+msgstr "Steg 3 – Anpassa allt"
+
+#: inc/customizer/customizer.php:650
+msgid "Invalid value for background repeat."
+msgstr "Ogiltigt värde för bakgrundsupprepning."
+
+#: inc/customizer/panels/blog-options.php:190
+msgid "Show author box"
+msgstr "Visa författarruta"
+
+#: inc/customizer/panels/full-width.php:49
+msgid "Add padding to section ?"
+msgstr "Lägg till padding till sektionen?"
+
+#: inc/class-illdy.php:105
+msgid "Hover Color"
+msgstr "Hovringsfärg"
+
+#: inc/customizer/panels/latest-news.php:166
+msgid "Number of words in post entry"
+msgstr "Antal ord i inlägget"
+
+#: functions.php:379
+msgid "The widgets added in this sidebar will appear in full width section from front page."
+msgstr "Widgetar som läggs till på den här sidopanelen kommer att synas i fullbreddsektionen på startsidan."
+
+#: functions.php:392
+msgid "The widgets added in this sidebar will appear in testimonials section from front page."
+msgstr "Widgetar som läggs till på den här sidopanelen kommer att synas i omdömessektionen på startsidan."
+
+#: inc/customizer/panels/projects.php:282
+#: inc/customizer/panels/latest-news.php:319
+#: inc/customizer/panels/full-width.php:247 inc/customizer/panels/team.php:191
+#: inc/customizer/panels/services.php:263
+#: inc/customizer/panels/jumbotron.php:331 inc/customizer/panels/about.php:265
+#: inc/customizer/panels/testimonials.php:212
+msgid "Scroll with Page"
+msgstr "Rulla med sidan"
+
+#: inc/customizer/panels/projects.php:264
+#: inc/customizer/panels/latest-news.php:301
+#: inc/customizer/panels/full-width.php:229 inc/customizer/panels/team.php:179
+#: inc/customizer/panels/services.php:245
+#: inc/customizer/panels/jumbotron.php:312 inc/customizer/panels/about.php:247
+#: inc/customizer/panels/testimonials.php:194
+msgid "Repeat Background Image"
+msgstr "Upprepa bakgrundsbilden"
+
+#: inc/class-mt-notify-system.php:216
+msgid "Please activate the WordPress Widget Importer to create the demo content."
+msgstr "Aktivera WordPress Widget Importer för att skapa demoinnehåll."
+
+#: inc/class-mt-notify-system.php:211 inc/class-mt-notify-system.php:219
+msgid "Please install the WordPress widget importer to create the demo content"
+msgstr "Installera WordPress Widget Importer för att skapa demoinnehåll"
+
+#: inc/customizer/panels/full-width.php:13
+msgid "Control title and description of full width section."
+msgstr "Kontrollera rubrik och beskrivning av fullbreddssektion."
+
+#: inc/class-illdy.php:106
+msgid "The color used for hover on elements."
+msgstr "Färgen som visas vid hovring över element."
+
+#: inc/customizer/panels/blog-options.php:62
+msgid "From this section you'll be able to control various single post (blog) settings."
+msgstr "Från denna sektion kan du kontrollera olika inställningar för enskilda inlägg (blogg)."
+
+#: functions.php:377
+msgid "Front page - Full Width Section"
+msgstr "Startsida – Fullbreddsektion"
+
+#: inc/class-mt-notify-system.php:202
+msgid "Please activate the WordPress Importer to create the demo content."
+msgstr "Vänligen aktivera WordPress-importören för att skapa demoinnehållet."
+
+#: inc/class-mt-notify-system.php:197 inc/class-mt-notify-system.php:205
+msgid "Please install the WordPress Importer to create the demo content."
+msgstr "Vänligen installera WordPress-importören för att skapa demoinnehållet."
+
+#: inc/class-mt-notify-system.php:171
+msgid "Activate: Widget Importer Exporter Plugin"
+msgstr "Aktivera: Tillägget Widget Importer Exporter"
+
+#: inc/class-mt-notify-system.php:166 inc/class-mt-notify-system.php:174
+msgid "Install: Widget Importer Exporter Plugin"
+msgstr "Installera: Tillägget Widget Importer Exporter"
+
+#: inc/customizer/panels/general-options.php:362
+msgid "From this section, you'll be able to alter the footer settings. Manage your copyright message as well as the logo shown in the footer of the theme."
+msgstr "Från den här sektionen kan du ändra inställningarna för sidfoten. Hantera ditt upphovsrättsmeddelande samt den logga som visas i sidfoten på temat."
+
+#: inc/customizer/panels/blog-options.php:112
+msgid "Show Posted on"
+msgstr "Visa publicerade på"
+
+#: inc/customizer/panels/testimonials.php:70
+msgid "Add & Edit Testimonials"
+msgstr "Lägg till och redigera omdömen"
+
+#: inc/customizer/panels/latest-news.php:477
+msgid "Post Title Hover Color"
+msgstr "Inläggsrubrikens hovringsfärg"
+
+#: functions.php:390
+msgid "Front page - Testimonials Sidebar"
+msgstr "Startsida – Omdömen sidopanel"
+
+#: inc/libraries/welcome-screen/sections/support.php:17
+msgid "We offer excellent support through our advanced ticketing system. Make sure to register your purchase before contacting support!"
+msgstr "Vi erbjuder utmärkt support genom vårt avancerade ärendesystem. Se till att registrera ditt köp innan du kontaktar support!"
+
+#: inc/customizer/panels/latest-news.php:443
+msgid "Post Box Background Color"
+msgstr "Inläggsrutans bakgrundsfärg"
+
+#: inc/customizer/panels/blog-options.php:49
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:427
+msgid "Cover"
+msgstr "Omslag"
+
+#: inc/customizer/panels/blog-options.php:50
+#: inc/libraries/epsilon-framework/classes/helpers/class-epsilon-section-repeater-helper.php:428
+msgid "Contain"
+msgstr "Begränsa"
+
+#: inc/customizer/panels/blog-options.php:45
+msgid "Background Stretch"
+msgstr "Bakgrundssträckning"
+
+#: inc/customizer/panels/projects.php:125
+#: inc/customizer/panels/latest-news.php:93 inc/customizer/panels/team.php:76
+#: inc/customizer/panels/services.php:107 inc/customizer/panels/about.php:102
+#: inc/customizer/panels/contact-us.php:134
+msgid "In order to edit description please install <a href=\"%s\" target=\"_blank\">Illdy Companion</a>"
+msgstr "För att redigera beskrivningen, installera <a href=\"%s\" target=\"_blank\">Illdy Companion</a>"
+
+#: sections/front-page-contact-us.php:136 inc/customizer/customizer.php:553
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: sections/front-page-contact-us.php:133 inc/customizer/customizer.php:550
+msgid "YouTube"
+msgstr "YouTube"
+
+#: sections/front-page-contact-us.php:130 inc/customizer/customizer.php:547
+msgid "Instagram"
+msgstr "Instagram"
+
+#: sections/front-page-contact-us.php:127 inc/customizer/customizer.php:544
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: sections/front-page-contact-us.php:124 inc/customizer/customizer.php:541
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer/panels/general-options.php:200
+msgid "Logo"
+msgstr "Logga"
+
+#: inc/customizer/panels/contact-us.php:397
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: inc/customizer/panels/contact-us.php:379
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/customizer/panels/contact-us.php:361
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/customizer/panels/contact-us.php:343
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/customizer/panels/contact-us.php:325
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: functions.php:247
+msgid "Page Sidebar"
+msgstr "Sidans sidopanel"
+
+#: inc/customizer/panels/general-options.php:247
+msgid "Text logo (company name)"
+msgstr "Textlogga (företagsnamn)"
+
+#: functions.php:249
+msgid "The widgets added in this sidebar will appear on single pages."
+msgstr "De widgetar som läggs till i den här sidopanelen kommer att visas på enskilda sidor."
+
+#: inc/customizer/panels/general-options.php:248
+msgid "This field is best used when you don't have an image logo or simply prefer using a text as your logo / company name."
+msgstr "Dettta fält används bäst när du inte har en bildlogga eller helt enkelt föredrar att använda en text som din logga/företagsnamn."
+
+#: inc/customizer/panels/general-options.php:15
+msgid "Site logo"
+msgstr "Webbplatsens logga"
+
+#: inc/customizer/panels/blog-options.php:20
+msgid "The tagline will be shown on archive pages, in the blog page right below the title."
+msgstr "Slogan kommer att visas på arkivsidor, på bloggsidan precis under rubriken."
+
+#: inc/customizer/panels/general-options.php:185
+msgid "Preloader secondary color"
+msgstr "Preloader sekundära färg"
+
+#: inc/customizer/panels/general-options.php:167
+msgid "Controls the color of the loading bar & of the percentage."
+msgstr "Kontrollerar färgen på laddningsfältet och procentandelen."
+
+#: inc/customizer/panels/general-options.php:166
+msgid "Preloader primary color"
+msgstr "Preloader primära färg"
+
+#: inc/customizer/panels/general-options.php:147
+msgid "Preloader background color"
+msgstr "Preloader bakgrundsfärg"
+
+#: inc/customizer/panels/general-options.php:130
+msgid "Enable the site preloader?"
+msgstr "Aktivera webbplatsens preloader?"
+
+#: inc/customizer/panels/general-options.php:382
+msgid "Use this to display your company copyright message."
+msgstr "Använd detta för att visa ditt företags copyrightmeddelande."
+
+#: sections/front-page-about.php:12 inc/customizer/panels/about.php:74
+msgid "It is an amazing one-page theme with great features that offers an incredible experience. It is easy to install, make changes, adapt for your business. A modern design with clean lines and styling for a wide variety of content, exactly how a business design should be. You can add as many images as you want to the main header area and turn them into slider."
+msgstr "Det är ett underbart ensidestema med fantastiska funktioner som ger en enastående upplevelse. Det är enkelt att installera, göra ändringar och anpassa för ditt företag. En modern design med rena linjer och stilar för många typer av innehåll, precis som designen för ett företag behöver vara. Du kan lägga till önskat antal bilder i sidhuvudet och förvandla sidhuvudet till ett bildspel."
+
+#: inc/customizer/panels/jumbotron.php:32
+msgid "Enabling this will add a parallax scrolling effect for the header image."
+msgstr "Aktivering av detta kommer att lägga till en parallax rullningseffekt för bilden i sidhuvudet."
+
+#: inc/customizer/panels/general-options.php:148
+msgid "Controls the background color for the container where the preloader is diplayed on"
+msgstr "Kontrollerar bakgrundsfärgen för den behållare där preloadern visas på"
+
+#: sections/front-page-latest-news.php:94 template-parts/content.php:24
+msgid "Read more"
+msgstr "Läs mer"
+
+#: sections/front-page-bottom-header.php:13
+#: inc/customizer/panels/jumbotron.php:94
+msgid "Learn more"
+msgstr "Lär dig mer"
+
+#: inc/customizer/panels/projects.php:299 inc/customizer/panels/counter.php:89
+#: inc/customizer/panels/latest-news.php:338
+#: inc/customizer/panels/full-width.php:264 inc/customizer/panels/team.php:201
+#: inc/customizer/panels/services.php:280
+#: inc/customizer/panels/jumbotron.php:467 inc/customizer/panels/about.php:282
+#: inc/customizer/panels/testimonials.php:229
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: inc/customizer/panels/counter.php:53
+msgid "Color"
+msgstr "Färg"
+
+#: inc/customizer/panels/counter.php:52 inc/customizer/panels/jumbotron.php:227
+msgid "Image"
+msgstr "Bild"
+
+#: inc/customizer/panels/counter.php:47 inc/customizer/panels/jumbotron.php:222
+msgid "Type of Background"
+msgstr "Bakgrundstyp"
+
+#: inc/customizer/panels/projects.php:175
+#: inc/customizer/panels/latest-news.php:212
+#: inc/customizer/panels/full-width.php:140 inc/customizer/panels/team.php:114
+#: inc/customizer/panels/services.php:156
+#: inc/customizer/panels/jumbotron.php:192 inc/customizer/panels/about.php:158
+#: inc/customizer/panels/testimonials.php:105
+msgid "Backgrounds"
+msgstr "Bakgrunder"
+
+#: inc/customizer/panels/contact-us.php:484
+msgid "Address 2"
+msgstr "Adress 2"
+
+#: sections/front-page-contact-us.php:23
+#: inc/customizer/panels/contact-us.php:477
+msgid "London, UK"
+msgstr "London, UK"
+
+#: inc/customizer/panels/latest-news.php:142
+msgid "Number of posts"
+msgstr "Antal inlägg"
+
+#: sections/front-page-latest-news.php:19
+#: inc/customizer/panels/latest-news.php:112
+msgid "See blog"
+msgstr "Se blogg"
+
+#: inc/customizer/panels/latest-news.php:118
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: sections/front-page-bottom-header.php:15
+#: inc/customizer/panels/jumbotron.php:131
+msgid "Download"
+msgstr "Ladda ner"
+
+#: sections/front-page-team.php:11 inc/customizer/panels/team.php:36
+msgid "Team"
+msgstr "Team"
+
+#: sections/front-page-services.php:11 inc/customizer/panels/services.php:50
+msgid "Services"
+msgstr "Tjänster"
+
+#: sections/front-page-latest-news.php:17
+#: inc/customizer/panels/latest-news.php:41
+msgid "Latest News"
+msgstr "Senaste nyheterna"
+
+#: inc/customizer/panels/latest-news.php:143
+msgid "Add the number of posts to show in this section."
+msgstr "Lägg till antalet inlägg att visa i denna sektion."
+
+#: inc/customizer/panels/general-options.php:33
+msgid "General Options"
+msgstr "Allmänna alternativ"
+
+#: sections/front-page-team.php:57
+msgid "John Smith"
+msgstr "John Smith"
+
+#: sections/front-page-contact-us.php:121 inc/customizer/customizer.php:538
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: sections/front-page-contact-us.php:118 inc/customizer/customizer.php:535
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:114
+msgid "Facebook"
+msgstr "Facebook"
+
+#: sections/front-page-contact-us.php:115 inc/customizer/customizer.php:532
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:116
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sections/front-page-contact-us.php:102
+msgid "E-mail:"
+msgstr "E-post:"
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:29
+msgid "Version:"
+msgstr "Version:"
+
+#: inc/customizer/panels/latest-news.php:119
+msgid "Add the button text for this section."
+msgstr "Lägg till knapptext för denna sektion."
+
+#: inc/customizer/panels/jumbotron.php:100
+msgid "First button title"
+msgstr "Första knapprubrik"
+
+#: inc/customizer/panels/jumbotron.php:137
+msgid "Second button title"
+msgstr "Andra knapprubrik"
+
+#: inc/customizer/panels/projects.php:200 inc/customizer/panels/counter.php:70
+#: inc/customizer/panels/latest-news.php:237
+#: inc/customizer/panels/full-width.php:165 inc/customizer/panels/team.php:133
+#: inc/customizer/panels/services.php:181
+#: inc/customizer/panels/jumbotron.php:245 inc/customizer/panels/about.php:183
+#: inc/customizer/panels/testimonials.php:130
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Sök…"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:283
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:349
+msgid "Activate"
+msgstr "Aktivera"
+
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:287
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:353
+msgid "Update"
+msgstr "Uppdatera"
+
+#: inc/libraries/welcome-screen/inc/class-epsilon-import-data.php:195
+msgid "Plugins"
+msgstr "Tillägg"
+
+#: inc/libraries/welcome-screen/sections/recommended-plugins.php:25
+msgid "Recommended"
+msgstr "Rekommenderad"
+
+#: inc/extras.php:33
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: inc/extras.php:33
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/extras.php:53
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: sections/front-page-projects.php:63
+msgid "Project 4"
+msgstr "Projekt 4"
+
+#: sections/front-page-projects.php:62
+msgid "Project 3"
+msgstr "Projekt 3"
+
+#: sections/front-page-projects.php:61
+msgid "Project 2"
+msgstr "Projekt 2"
+
+#: sections/front-page-projects.php:60
+msgid "Project 1"
+msgstr "Projekt 1"
+
+#: sections/front-page-services.php:55
+msgid "Web Design"
+msgstr "Webbdesign"
+
+#: sections/front-page-team.php:55
+msgid "Web Designer"
+msgstr "Webbdesigner"
+
+#: sections/front-page-team.php:56
+msgid "Jane  Stenton"
+msgstr "Jane  Stenton"
+
+#: sections/front-page-testimonials-widget.php:56
+#: sections/front-page-testimonials-widget.php:57
+#: sections/front-page-testimonials-widget.php:58
+#: sections/front-page-testimonials.php:103
+#: sections/front-page-testimonials.php:109
+#: sections/front-page-testimonials.php:114
+#: sections/front-page-testimonials.php:120
+#: sections/front-page-testimonials.php:125
+#: sections/front-page-testimonials.php:131
+#: sections/front-page-testimonials.php:136
+#: sections/front-page-testimonials.php:142
+msgid "Jane Smith"
+msgstr "Jane Smith"
+
+#: sections/front-page-team.php:57
+msgid "Developer"
+msgstr "Utvecklare"
+
+#: sidebar.php:22
+msgid "Categories"
+msgstr "Kategorier"
+
+#: template-parts/content-single.php:25 template-parts/content-page.php:23
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#: sidebar.php:23
+msgid "Archive"
+msgstr "Arkiv"
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr "Vänster sidopanel"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "Ingen sidopanel"
+
+#: template-parts/content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: sections/front-page-team.php:55
+msgid "Creative, detail-oriented, always focused."
+msgstr "Kreativ, detaljorienterad, alltid fokuserad."
+
+#: sections/front-page-team.php:55
+msgid "Mark Lawrance"
+msgstr "Mark Lawrance"
+
+#: sections/front-page-services.php:56
+msgid "Web Development"
+msgstr "Webbutveckling"
+
+#: sections/front-page-counter.php:50
+msgid "Coffes"
+msgstr "Kaffe"
+
+#: sections/front-page-contact-us.php:106
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: sections/front-page-about.php:60
+msgid "Development"
+msgstr "Utveckling"
+
+#: sections/front-page-about.php:59
+msgid "Design"
+msgstr "Design"
+
+#: sections/front-page-about.php:58
+msgid "Typography"
+msgstr "Typografi"
+
+#: inc/class-illdy.php:40
+msgid "Illdy Companion"
+msgstr "Illdy Companion"
+
+#: sections/front-page-testimonials-widget.php:11
+#: sections/front-page-testimonials.php:11
+#: inc/customizer/panels/testimonials.php:42
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: sections/front-page-projects.php:12 inc/customizer/panels/projects.php:91
+msgid "You'll love our work. Check it out!"
+msgstr "Du kommer att älska vårt arbete. Kolla in det!"
+
+#: sections/front-page-projects.php:11 sections/front-page-counter.php:48
+#: inc/customizer/panels/projects.php:67
+msgid "Projects"
+msgstr "Projekt"
+
+#: sections/front-page-services.php:55 sections/front-page-services.php:56
+#: sections/front-page-services.php:57
+msgid "Consectetur adipiscing elit. Praesent molestie urna hendrerit erat tincidunt tempus. Aliquam a leo risus. Fusce a metus non augue dapibus porttitor at in mauris. Pellentesque commodo..."
+msgstr "Consectetur adipiscing elit. Praesent molestie urna hendrerit erat tincidunt tempus. Aliquam a leo risus. Fusce a metus non augue dapibus porttitor at in mauris. Pellentesque commodo…"
+
+#: sections/front-page-latest-news.php:18
+msgid "If you are interested in the latest articles in the industry, take a sneak peek at our blog. You have got nothing to loose!"
+msgstr "Om du är intresserad av de senaste artiklarna i branschen, ta en smygtitt på vår blogg. Du har inget att förlora!"
+
+#: inc/extras.php:48
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: inc/customizer/panels/projects.php:16
+msgid "Projects Section"
+msgstr "Projektsektion"
+
+#: woocommerce.php:34
+msgid "WooCommerce Title"
+msgstr "WooCommerce-rubrik"
+
+#: sections/front-page-services.php:57
+msgid "SEO Analisys"
+msgstr "SEO-analys"
+
+#: sections/front-page-team.php:56
+msgid "SEO Specialist"
+msgstr "SEO-specialist"
+
+#: inc/customizer/panels/blog-options.php:93
+msgid "Single Post Options"
+msgstr "Alternativ för enskilt inlägg"
+
+#: sections/front-page-team.php:57
+msgid "Enthusiastic, passionate with great sense of humor."
+msgstr "Entusiastisk, passionerad med stor sinne för humor."
+
+#: sections/front-page-team.php:56
+msgid "Curious, tech-geeck and gets serious when it comes to work."
+msgstr "Nyfiken tekniknörd och blir seriös när det gäller arbete."
+
+#: sections/front-page-team.php:12 inc/customizer/panels/team.php:54
+msgid "Meet the people that are going to take your business to the next level."
+msgstr "Möt de människor som ska ta din verksamhet till nästa nivå."
+
+#: inc/customizer/panels/latest-news.php:65
+msgid "If you are interested in the latest articles in the industry, take a sneak peek at our blog. You have nothing to loose!"
+msgstr "Om du är intresserad av de senaste artiklarna i branschen, ta en titt på vår blogg. Du har inget att förlora!"
+
+#: inc/customizer/panels/general-options.php:34
+msgid "You can change the site layout in this area as well as your contact details (the ones displayed in the header & footer) "
+msgstr "Du kan ändra webbplatsens layout i detta område samt dina kontaktuppgifter (de som visas i sidhuvud och sidfot)"
+
+#: inc/customizer/panels/jumbotron.php:157
+msgid "Second button URL"
+msgstr "URL för den andra knappen"
+
+#: inc/customizer/panels/jumbotron.php:120
+msgid "First button URL"
+msgstr "URL för den första knappen"
+
+#: inc/customizer/panels/general-options.php:113
+msgid "Preloader"
+msgstr "Preloader"
+
+#: inc/customizer/panels/team.php:14
+msgid "Team Section"
+msgstr "Teamsektion"
+
+#: inc/customizer/panels/testimonials.php:12
+msgid "Testimonials Section"
+msgstr "Omdömessektion"
+
+#: inc/customizer/panels/blog-options.php:191
+msgid "Displayed right at the end of the post"
+msgstr "Visas precis vid slutet av inlägget"
+
+#: inc/customizer/panels/projects.php:17
+msgid "Control various options for projects section from front page."
+msgstr "Kontrollera olika alternativ för projektsektionen från startsidan."
+
+#: inc/customizer/panels/team.php:15
+msgid "Control various options for team section from front page."
+msgstr "Kontrollera olika alternativ för teamsektionen på startsidan."
+
+#: inc/customizer/panels/latest-news.php:11
+msgid "Latest News Section"
+msgstr "Sektion för senaste nytt"
+
+#: inc/customizer/panels/services.php:16
+msgid "Services Section"
+msgstr "Sektion för tjänster"
+
+#: sections/front-page-services.php:12 inc/customizer/panels/services.php:74
+msgid "In order to help you grow your business, our carefully selected experts can advise you in in the following areas:"
+msgstr "För att hjälpa dig att öka din verksamhet kan våra noga utvalda experter ge dig råd på följande områden:"
+
+#: sections/front-page-testimonials-widget.php:56
+#: sections/front-page-testimonials-widget.php:57
+#: sections/front-page-testimonials-widget.php:58
+#: sections/front-page-testimonials.php:106
+#: sections/front-page-testimonials.php:117
+#: sections/front-page-testimonials.php:128
+#: sections/front-page-testimonials.php:139
+msgid "Awesome theme with great design and helpfull support. If you do not know how to code your own WordPress theme, but you still want a good-looking website for your business, Illdy might be exactly what you need. It is a slick theme with a lot of of features to choose from. You can customize whatever section you  want and you can rest assure that no matter what device your website is viewed on it looks  great."
+msgstr "Grymt bra tema med underbar design och användbart stöd. Om du inte vet hur man kodar ditt eget WordPress-tema, men ändå vill ha en webbplats som ser bra ut för ditt företag, kan Illdy vara precis vad du behöver. Det är ett smart tema med många funktioner att välja mellan. Du kan anpassa vilken sektion du vill och du kan vara säker på att oavsett vilken enhet din webbplats visas på ser det bra ut."
+
+#: inc/customizer/panels/blog-options.php:172
+msgid "This will disable the comments header zone."
+msgstr "Detta kommer att inaktivera sidhuvudområdet för kommentarer."
+
+#: inc/customizer/panels/blog-options.php:132
+msgid "This will disable the posted in zone."
+msgstr "Detta kommer att inaktivera området ”publicerat i”."
+
+#: inc/customizer/panels/blog-options.php:152
+msgid "This will disable the tagged with zone."
+msgstr "Detta kommer att inaktivera området ”taggat med”."
+
+#: inc/customizer/panels/blog-options.php:113
+msgid "This will disable the posted on zone as well as the author name"
+msgstr "Detta kommer att inaktivera området ”skrivet den” samt författarens namn"
+
+#: inc/customizer/panels/blog-options.php:94
+msgid "This section allows you to control how certain elements are displayed on the blog single page."
+msgstr "Den här sektionen låter dig kontrollera hur olika element visas på den enskilda sidan för bloggen."
+
+#: inc/customizer/panels/services.php:17
+msgid "Control various options for services section from front page."
+msgstr "Kontrollera olika alternativ för tjänstsektionen på startsidan."
+
+#: inc/customizer/panels/latest-news.php:12
+msgid "Control various options for latest news section from front page."
+msgstr "Kontrollera olika alternativ för sektionen senaste nyheter på startsidan."
+
+#: inc/customizer/panels/general-options.php:381
+msgid "Footer Copyright"
+msgstr "Upphovsrätt i sidfot"
+
+#: woocommerce.php:35
+msgid "Product Categories"
+msgstr "Produktkategorier"
+
+#: sections/front-page-counter.php:49
+msgid "Clients"
+msgstr "Klienter"
+
+#: inc/customizer/panels/testimonials.php:13
+msgid "Control various options for testimonials section from front page."
+msgstr "Kontrollerar olika alternativ för omdömes-sektion från startsida."
+
+#: sections/front-page-bottom-header.php:12
+#: inc/customizer/panels/jumbotron.php:67
+msgid "lldy is a great one-page theme, perfect for developers and designers but also for someone who just wants a new website for his business. Try it now!"
+msgstr "lldy är ett utmärkt ensides-tema, perfekt för utvecklare och designers, men också för någon som bara vill ha en ny webbplats för sin verksamhet. Prova det nu!"
+
+#: inc/customizer/panels/jumbotron.php:11
+msgid "Jumbotron Section"
+msgstr "Jumbotron-sektion"
+
+#: comments.php:117 comments.php:119
+msgid "Message"
+msgstr "Meddelande"
+
+#: comments.php:111
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:26 comments.php:72
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:24 comments.php:69
+msgid "Comment navigation"
+msgstr "Kommentarsnavigation"
+
+#: footer.php:55 footer.php:64
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:520
+msgid "Support"
+msgstr "Support"
+
+#: footer.php:46
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:788
+msgid "Blog"
+msgstr "Blogg"
+
+#: footer.php:46
+msgid "Terms"
+msgstr "Villkor"
+
+#: footer.php:46
+msgid "Pricing"
+msgstr "Priser"
+
+#: footer.php:46
+msgid "Information"
+msgstr "Information"
+
+#: footer.php:37
+msgid "News"
+msgstr "Nyheter"
+
+#: footer.php:37
+msgid "Club"
+msgstr "Klubb"
+
+#: footer.php:37
+msgid "Our work"
+msgstr "Vårt arbete"
+
+#: footer.php:37
+msgid "Products"
+msgstr "Produkter"
+
+#: comments.php:130
+msgid "Leave a comment to %s"
+msgstr "Lämna en kommentar till %s"
+
+#: comments.php:129
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: comments.php:128
+msgid "Send"
+msgstr "Skicka"
+
+#: inc/class-illdy.php:48
+msgid "Install: Contact Form 7"
+msgstr "Installera: Contact Form 7"
+
+#: inc/customizer/panels/projects.php:124
+#: inc/customizer/panels/latest-news.php:92 inc/customizer/panels/team.php:75
+#: inc/customizer/panels/services.php:106 inc/customizer/panels/about.php:101
+#: inc/customizer/panels/contact-us.php:133
+msgid "Install Illdy Companion"
+msgstr "Installera Illdy Companion"
+
+#: footer.php:77
+msgid "Theme:"
+msgstr "Tema:"
+
+#: footer.php:55 footer.php:64
+msgid "Contact"
+msgstr "Kontakt"
+
+#: footer.php:55 footer.php:64
+msgid "Forums"
+msgstr "Forum"
+
+#: footer.php:55 footer.php:64
+msgid "FAQs"
+msgstr "Vanliga frågor"
+
+#: footer.php:55 footer.php:64 inc/customizer/customizer.php:36
+#: inc/libraries/welcome-screen/sections/support.php:24
+msgid "Documentation"
+msgstr "Dokummentation"
+
+#: inc/components/related-posts/class-illdy-related-posts-output.php:98
+msgid "Related Articles"
+msgstr "Relaterade artiklar"
+
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:105
+msgid "Tags: "
+msgstr "Etiketter:"
+
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:65
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:88
+msgid "Comments are off for this post"
+msgstr "Kommentarer är avstängda för detta inlägg"
+
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:65
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:88
+msgid "1 comment"
+msgstr "1 kommentar"
+
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:65
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:88
+msgid "comments"
+msgstr "kommentarer"
+
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:65
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:88
+msgid "No comments"
+msgstr "Inga kommentarer"
+
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:52
+#: inc/components/entry-meta/class-illdy-entry-meta-output.php:79
+msgid ", "
+msgstr ", "
+
+#: sections/front-page-contact-us.php:27
+#: inc/customizer/panels/contact-us.php:153
+msgid "Address"
+msgstr "Adress"
+
+#: inc/customizer/panels/contact-us.php:159
+msgid "Address Title"
+msgstr "Adressrubrik"
+
+#: sections/front-page-contact-us.php:24
+#: inc/customizer/panels/contact-us.php:82
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+#: inc/customizer/panels/projects.php:98
+#: inc/customizer/panels/latest-news.php:72
+#: inc/customizer/panels/full-width.php:88 inc/customizer/panels/team.php:58
+#: inc/customizer/panels/services.php:81 inc/customizer/panels/jumbotron.php:74
+#: inc/customizer/panels/about.php:81 inc/customizer/panels/contact-us.php:113
+msgid "Entry"
+msgstr "Inlägg"
+
+#: inc/customizer/panels/blog-options.php:29
+msgid "You can change blog options "
+msgstr "Du kan ändra bloggalternativ"
+
+#: inc/customizer/panels/blog-options.php:28
+msgid "Blog Options"
+msgstr "Bloggalternativ"
+
+#: inc/customizer/panels/projects.php:73
+#: inc/customizer/panels/latest-news.php:47
+#: inc/customizer/panels/full-width.php:66 inc/customizer/panels/team.php:40
+#: inc/customizer/panels/services.php:56 inc/customizer/panels/jumbotron.php:48
+#: inc/customizer/panels/about.php:54 inc/customizer/panels/testimonials.php:48
+#: inc/customizer/panels/contact-us.php:88
+msgid "Title"
+msgstr "Rubrik"
+
+#: inc/customizer/panels/contact-us.php:32
+msgid "General"
+msgstr "Allmänt"
+
+#: inc/customizer/panels/contact-us.php:462
+msgid "Address 1"
+msgstr "Adress 1"
+
+#: sections/front-page-contact-us.php:22
+#: inc/customizer/panels/contact-us.php:455
+msgid "Street 221B Baker Street, "
+msgstr "Street 221B Baker Street, "
+
+#: inc/customizer/panels/contact-us.php:439
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: sections/front-page-contact-us.php:21
+#: inc/customizer/panels/contact-us.php:432
+msgid "(555) 555-5555"
+msgstr "(555) 555-5555"
+
+#: sections/front-page-contact-us.php:20
+#: inc/customizer/panels/contact-us.php:408
+msgid "contact@site.com"
+msgstr "contact@site.com"
+
+#: inc/customizer/panels/contact-us.php:220
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:279
+#: inc/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:345
+msgid "Install"
+msgstr "Installera"
+
+#: inc/customizer/panels/contact-us.php:415
+msgid "Email addr."
+msgstr "E-postadress."
+
+#: inc/customizer/panels/projects.php:74
+#: inc/customizer/panels/latest-news.php:48
+#: inc/customizer/panels/full-width.php:67 inc/customizer/panels/team.php:41
+#: inc/customizer/panels/services.php:57 inc/customizer/panels/about.php:55
+#: inc/customizer/panels/testimonials.php:49
+#: inc/customizer/panels/contact-us.php:89
+msgid "Add the title for this section."
+msgstr "Lägg till rubrik för denna sektion."
+
+#: sections/front-page-about.php:11 inc/customizer/panels/about.php:48
+msgid "About"
+msgstr "Om"
+
+#: inc/customizer/panels/projects.php:39 inc/customizer/panels/counter.php:29
+#: inc/customizer/panels/latest-news.php:30
+#: inc/customizer/panels/full-width.php:30 inc/customizer/panels/team.php:28
+#: inc/customizer/panels/services.php:39 inc/customizer/panels/about.php:37
+#: inc/customizer/panels/testimonials.php:31
+#: inc/customizer/panels/contact-us.php:71
+msgid "Show this section?"
+msgstr "Visa denna sektion?"
+
+#: comments.php:113
+msgid "Website"
+msgstr "Webbplats"
+
+#: comments.php:112
+msgid "Email"
+msgstr "E-post"
+
+#: comments.php:27 comments.php:73
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: functions.php:236
+msgid "The widgets added in this sidebar will appear in blog page."
+msgstr "De widgetar som läggs till i denna sidopanel kommer att visas på bloggsidan."
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: functions.php:234
+msgid "Blog Sidebar"
+msgstr "Sidopanel för blogg"
+
+#: sections/front-page-contact-us.php:28
+#: inc/customizer/panels/contact-us.php:174
+msgid "Customer Support"
+msgstr "Kundsupport"
+
+#: sections/front-page-contact-us.php:25
+#: inc/customizer/panels/contact-us.php:106
+msgid "And we will get in touch as soon as possible."
+msgstr "Och vi kommer att höra av oss så snart som möjligt."
+
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:502
+msgid "Getting Started"
+msgstr "Kom igång"
+
+#: inc/customizer/panels/contact-us.php:200
+msgid "Select the contact form you'd like to display (powered by Contact Form 7)"
+msgstr "Välj det kontaktformulär du vill visa (drivs av Contact Form 7)"
+
+#: inc/customizer/panels/about.php:15
+msgid "About Section"
+msgstr "Sektion för ”Om”"
+
+#: inc/libraries/welcome-screen/sections/recommended-actions.php:88
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:302
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:306
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hurra! Det finns inga obligatoriska åtgärder för dig just nu."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:45
+msgid "Go to Customizer"
+msgstr "Gå till anpassare"
+
+#: inc/customizer/class-illdy-cf7-custom-control.php:59
+msgid "Select your contact form"
+msgstr "Välj ditt kontaktformulär"
+
+#: inc/customizer/panels/contact-us.php:219
+#: inc/customizer/panels/contact-us.php:239
+msgid "Contact Form Creation"
+msgstr "Skapa kontaktformulär"
+
+#: functions.php:406
+msgid "The widgets added in this sidebar will appear in WooCommerce pages."
+msgstr "De widgetar som läggs till i denna sidopanel kommer att synas på WooCommerce-sidor."
+
+#: functions.php:404
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce-sidopanel"
+
+#: inc/customizer/panels/contact-us.php:180
+msgid "Customer Support Title"
+msgstr "Kundsupportens rubrik"
+
+#: inc/customizer/panels/about.php:16
+msgid "Control various options for about section from front page."
+msgstr "Kontrollera olika alternativ för sektionen ”Om” på startsida."
+
+#: inc/customizer/panels/contact-us.php:12
+msgid "Control various options for contact us section from front page."
+msgstr "Kontrollera olika alternativ för sektionen ”kontakta oss” på startsida."
+
+#: inc/customizer/panels/contact-us.php:11
+msgid "Contact us Section"
+msgstr "Sektion ”Kontakta oss”"
+
+#: inc/customizer/class-illdy-cf7-custom-control.php:46
+msgid "No contact forms found"
+msgstr "Inga kontaktformulär hittades"
+
+#. Translators: Notice
+#: inc/libraries/welcome-screen/class-epsilon-welcome-screen.php:367
+msgid "Welcome! Thank you for choosing %3$s! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Välkommen! Tack för att du valde %3$s! För att fullt ut utnyttja det bästa som vårt tema kan erbjuda, se till att du besöker vår %1$svälkomstsida%2$s."
+
+#: inc/libraries/welcome-screen/sections/getting-started.php:43
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Med hjälp av WordPress-anpassaren kan du enkelt anpassa alla aspekter av temat."
+
+#: functions.php:286
+msgid "Footer Sidebar 3"
+msgstr "Sidopanel 3 i sidfot"
+
+#: functions.php:273
+msgid "Footer Sidebar 2"
+msgstr "Sidopanel 2 i sidfot"
+
+#: functions.php:260
+msgid "Footer Sidebar 1"
+msgstr "Sidopanel 1 i sidfot"
+
+#. translators: copyright footer message
+#: footer.php:15 inc/customizer/panels/general-options.php:374
+msgid "&copy; Copyright %s. All Rights Reserved."
+msgstr "&copy; Copyright %s. Alla rättigheter förbehålls."
+
+#: functions.php:275
+msgid "The widgets added in this sidebar will appear in second block from footer."
+msgstr "De widgetar som läggs till i denna sidopanel kommer att visas i sidfotens andra block."
+
+#: functions.php:262
+msgid "The widgets added in this sidebar will appear in first block from footer."
+msgstr "De widgetar som läggs till i denna sidopanel kommer att visas i sidfotens första block."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tanke kring &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s tankar kring &rdquo;%2$s&rdquo;"
+
+#: functions.php:288
+msgid "The widgets added in this sidebar will appear in third block from footer."
+msgstr "De widgetar som läggs till i denna sidopanel kommer att visas i sidfotens tredje block."
+
+#: footer.php:46
+msgid "Affiliates"
+msgstr "Medlemmar"
+
+#: functions.php:366
+msgid "The widgets added in this sidebar will appear in team section from front page."
+msgstr "De widgetar som läggs till i den här sidopanelen kommer att synas på teamsektionen på startsidan."
+
+#: footer.php:37
+msgid "Announcement"
+msgstr "Tillkännagivande"
+
+#: functions.php:327
+msgid "The widgets added in this sidebar will appear in projects section from front page."
+msgstr "Widgetar som läggs till på den här sidopanelen kommer att synas i projektsektionen på startsidan."
+
+#: functions.php:340
+msgid "The widgets added in this sidebar will appear in services section from front page."
+msgstr "Widgetar som läggs till på den här sidopanelen kommer att synas i tjänstsektionen på startsidan."
+
+#: functions.php:314
+msgid "The widgets added in this sidebar will appear in about section from front page."
+msgstr "De widgetar som läggs till på den här sidopanelen syns på sektionen ”om oss” på startsidan."
+
+#: inc/customizer/panels/contact-us.php:307
+msgid "LinkedIN URL"
+msgstr "LinkedIN-URL"
+
+#: inc/customizer/panels/contact-us.php:289
+msgid "Twitter URL"
+msgstr "Twitter-URL"
+
+#: inc/customizer/panels/contact-us.php:264
+msgid "Facebook URL"
+msgstr "Facebook-URL"
+
+#: functions.php:325
+msgid "Front page - Projects Sidebar"
+msgstr "Startsida – Projekt sidopanel"
+
+#: functions.php:364
+msgid "Front page - Team Sidebar"
+msgstr "Startsida – Team sidopanel"
+
+#: functions.php:338
+msgid "Front page - Services Sidebar"
+msgstr "Startsida – Tjänster sidopanel"
+
+#: functions.php:312
+msgid "Front page - About Sidebar"
+msgstr "Startsida – ”Om” sidopanel"
+
+#. Author URI of the theme
+msgid "http://colorlib.com"
+msgstr "http://colorlib.com"
+
+#. Theme URI of the theme
+msgid "http://colorlib.com/wp/themes/illdy/"
+msgstr "http://colorlib.com/wp/themes/illdy/"
+
+#. Author of the theme
+msgid "Colorlib"
+msgstr "Colorlib"

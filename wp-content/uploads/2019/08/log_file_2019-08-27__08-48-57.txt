@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://www.strangerview.dk
+Data file = /customers/6/a/9/strangerview.dk/httpd.www/wp-content/uploads/2019/08/demo-content-import-file_2019-08-27__08-48-57.xml
+Widget file = /customers/6/a/9/strangerview.dk/httpd.www/wp-content/uploads/2019/08/demo-widgets-import-file_2019-08-27__08-48-57.json
+Customizer file = /customers/6/a/9/strangerview.dk/httpd.www/wp-content/uploads/2019/08/demo-customizer-import-file_2019-08-27__08-48-57.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Widget already exists
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

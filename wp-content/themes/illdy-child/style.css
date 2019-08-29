@@ -1,0 +1,17 @@
+/*
+Theme Name: illdy Child
+Theme URL: http://strangerview.dk/wp-content/themes/illdy-child/
+Description: illdy Child Theme
+Author: Laus Strange
+Author URL: http://strangerview.dk/wp-content/themes/illdy-child/
+Template: illdy
+Version: 1.0.0
+Text Domain: illdy-child
+*/
+
+
+/* denne kode gør at padding og margin på siden er stillet til 0 some default, det er gjordt forde de nogle gange godt kan drille og ikke være på 0 */
+*{
+    padding: 0 ;
+    margin: 0;
+}
